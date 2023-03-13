@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wa5/waseem-pakages/issues"
   },
-  "homepage": "https://github.com/wa5/waseem-pakages#readme"
+  "homepage": "https://github.com/wa5/waseem-pakages#readme",
+  "publishConfig": {
+    "@waseemahmed116:registry": "https://npm.pkg.github.com"
+  }
 }
